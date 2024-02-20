@@ -17,6 +17,9 @@ body{
  padding-inline-start: 0;
 }
 
+main{
+  min-height: 100vh;
+}
 .green{
   color: green;
 }
@@ -24,6 +27,8 @@ body{
 .purple{
   color: blueviolet;
 }
+
+
 
 .githubIcon{
   height: 30px;
